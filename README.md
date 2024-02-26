@@ -2,7 +2,11 @@
 
 ![Metrics](/github-metrics.svg)
 <br/>
-![Achievements](/metrics.plugin.achievements.svg)
+![Achievements](/metrics.plugin.achievements.compact.svg)
+<br/>
+![Calendar](/metrics.plugin.calendar.full.svg)
+<br/>
+![Iso](/metrics.plugin.isocalendar.fullyear.svg)
 
 <!--
 **BP-2/bp-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
