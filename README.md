@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Brady! 👋
+
+![Metrics](/github-metrics.svg)
 
 <!--
 **BP-2/bp-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
