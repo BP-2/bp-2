@@ -2,8 +2,6 @@
 
 ![Metrics](/github-metrics.svg)
 <br/>
-![Achievements](/metrics.plugin.achievements.compact.svg)
-<br/>
 ![Calendar](/metrics.plugin.calendar.full.svg)
 <br/>
 ![Iso](/metrics.plugin.isocalendar.fullyear.svg)
